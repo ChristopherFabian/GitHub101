@@ -1,0 +1,14 @@
+<html>
+
+<head>
+  <title>external css</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>Hi</h1>
+	<h3>My Name is Christopher! Nice to meet you</h3>
+	<h3>I am going to 8th grade and my school is K8 School</h3>	
+</body>
+
+</html>
